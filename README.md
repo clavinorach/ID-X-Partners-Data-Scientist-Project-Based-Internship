@@ -1,8 +1,6 @@
 # ID-X-Partners-Data-Scientist-Project-Based-Internship
 
-# Credit Risk Prediction - Data Science Internship Project
-
-This project is a part of the **Data Scientist Project-Based Internship** at **ID/X Partners**. It focuses on building a machine learning model for **credit risk prediction** to help financial companies identify high-risk borrowers. The goal is to improve decision-making and reduce losses by accurately predicting loan defaults.
+This project is a part of the **Data Scientist Project-Based Virtual Internship** at **ID/X Partners**. It focuses on building a machine learning model for **credit risk prediction** to help financial companies identify high-risk borrowers. The goal is to improve decision-making and reduce losses by accurately predicting loan defaults.
 
 ## Project Overview
 
